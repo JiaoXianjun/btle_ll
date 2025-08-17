@@ -1,9 +1,9 @@
 // Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2022.2 (lin64) Build 3671981 Fri Oct 14 04:59:54 MDT 2022
-// Date        : Sat Aug 16 16:50:54 2025
+// Date        : Sun Aug 17 12:07:58 2025
 // Host        : amd-native running 64-bit Ubuntu 22.04.5 LTS
-// Command     : write_verilog -mode synth_stub ../../../btle_ll/hw/fpga/btle_ll_stub.v -force
+// Command     : write_verilog -mode synth_stub ../../../btle_ll/btle_ll_stub.v -force
 // Design      : btle_ll
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xc7z020clg484-1
